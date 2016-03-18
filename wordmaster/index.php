@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>words game</title>
+        <title>WORDMASTER</title>
         <!-- Bootstrap -->
         <link href="style/bootstrap.css" rel="stylesheet">
         <link href="style/bootstrap-theme.min.css" rel="stylesheet">
